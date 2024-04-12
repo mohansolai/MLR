@@ -1,1 +1,1 @@
-# multi linear regression 
+# Multi linear ordinal regression  
